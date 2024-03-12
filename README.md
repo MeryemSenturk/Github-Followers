@@ -1,6 +1,6 @@
 # Github Followers
 
-![Github Followers Project]()
+![Github Followers Project](./github-followers.gif)
 
 
 ## Technologies:
@@ -11,4 +11,4 @@
 
 ## Demo
 
-[Github Followers]()
+[Github Followers](https://meryemsenturk.github.io/Github-Followers/)
